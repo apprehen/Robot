@@ -1,0 +1,1 @@
+### 这是一个基于 `cq-http`和 `nonebot2`的 QQ 机器人的练手项目,主要是在于练习，目前正在developing中！！
