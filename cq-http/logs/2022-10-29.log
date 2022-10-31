@@ -1,0 +1,60 @@
+[2022-10-29 14:42:59] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-29 14:42:59] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-29 14:42:59] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-29 14:42:59] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-29 14:43:04] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-29 14:49:04] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 15:30:50] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-29 15:30:50] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-29 15:30:50] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-29 15:30:50] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-29 15:30:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-29 15:34:03] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 15:34:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53420->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 15:35:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 15:35:22] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55693->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 15:48:39] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-29 15:48:39] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-29 15:48:39] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-29 15:48:39] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-29 15:48:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-29 15:49:30] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 15:49:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58842->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 15:50:17] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 15:50:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58937->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 15:55:18] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 15:55:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58992->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:02:07] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:02:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60434->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:04:26] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-29 16:04:26] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-29 16:04:26] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-29 16:04:26] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-29 16:04:31] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-29 16:05:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:05:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62012->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:06:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:06:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62154->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:10:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:10:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62346->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:12:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:12:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63582->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:12:41] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:12:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63652->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:15:48] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:15:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63689->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:21:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:21:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65162->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:22:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:22:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49826->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:22:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:22:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49870->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:26:39] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:26:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49956->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:30:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:30:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50460->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:30:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-29 16:31:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:32:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52287->127.0.0.1:6060: use of closed network connection 
+[2022-10-29 16:42:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-29 16:42:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52430->127.0.0.1:6060: use of closed network connection 

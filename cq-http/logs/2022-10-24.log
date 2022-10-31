@@ -1,0 +1,48 @@
+[2022-10-24 19:13:58] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-10-24 19:13:58] [WARNING]: 将在 5秒 后继续. 
+[2022-10-24 19:14:03] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-10-24 19:14:24] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-24 19:14:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:14:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:16:00] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-24 19:16:00] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-24 19:16:00] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-24 19:16:00] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-24 19:16:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-24 19:29:15] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51491->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-10-24 19:29:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51491->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-10-24 19:29:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:30:06] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-24 19:30:06] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-24 19:30:06] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-24 19:30:06] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-24 19:30:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-10-24 19:30:17] [WARNING]: 将在 5秒 后继续. 
+[2022-10-24 19:31:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-24 19:31:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:31:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:31:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:31:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:31:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 19:41:39] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-24 19:41:39] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-24 19:41:39] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-24 19:41:39] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-24 19:41:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-24 19:43:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63652->127.0.0.1:6060: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-10-24 20:24:44] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-24 20:24:44] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-24 20:24:44] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-24 20:24:44] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-24 20:24:49] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-24 20:26:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-24 20:26:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51563->127.0.0.1:6060: use of closed network connection 
+[2022-10-24 20:26:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6060/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:6060: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-24 20:26:38] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-24 20:26:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51695->127.0.0.1:6060: use of closed network connection 
+[2022-10-24 20:27:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-10-24 20:27:46] [WARNING]: 警告: 配置文件内的QQ号 (1233456) 与缓存内的QQ号 (878606394) 不相同 
+[2022-10-24 20:27:46] [WARNING]: 1. 使用会话缓存继续. 
+[2022-10-24 20:27:46] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-10-24 20:27:46] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-10-24 20:27:51] [WARNING]: Protocol -> device lock is disable. http api may fail. 
